@@ -1,4 +1,4 @@
-# arr-2-sheet-client
+# arr-to-sheet-client
 
 ## DocumentationJS
 

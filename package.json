@@ -1,7 +1,7 @@
 {
-  "name": "arr-2-sheet-client",
+  "name": "arr-to-sheet-client",
   "version": "1.0.0",
-  "description": "arr-2-sheet-server's client. you can install 'arr-2-sheet-client' by yarn or npm. https://github.com/code4kit/arr-2-sheet-server#readme",
+  "description": "arr-to-sheet-server's client. you can install 'arr-to-sheet-client' by yarn or npm. https://github.com/code4kit/arr-to-sheet-server#readme",
   "main": "./src/index.js",
   "scripts": {
     "start": "node ./sample.js",
@@ -16,13 +16,13 @@
     "waricoma"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/code4kit/arr-2-sheet-client#readme",
+  "homepage": "https://github.com/code4kit/arr-to-sheet-client#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/code4kit/arr-2-sheet-client.git"
+    "url": "git+https://github.com/code4kit/arr-to-sheet-client.git"
   },
   "bugs": {
-    "url": "https://github.com/code4kit/arr-2-sheet-client/issues"
+    "url": "https://github.com/code4kit/arr-to-sheet-client/issues"
   },
   "engines": {
     "yarn": ">=1.19.1",
