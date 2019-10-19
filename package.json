@@ -1,6 +1,6 @@
 {
   "name": "arr-to-sheet-client",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "arr-to-sheet-server's client. you can install 'arr-to-sheet-client' by yarn or npm. https://github.com/code4kit/arr-to-sheet-server#readme",
   "main": "./src/index.js",
   "scripts": {
