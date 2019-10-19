@@ -5,7 +5,7 @@
 [![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/code4kit/arr-to-sheet-client#readme)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/code4kit/arr-to-sheet-client/graphs/commit-activity)
 [![License: MIT](https://img.shields.io/github/license/code4kit/arr-to-sheet-client)](https://github.com/code4kit/arr-to-sheet-client/blob/master/LICENSE)
-[![CircleCI](https://circleci.com/gh/code4kit/arr-2-sheet-client.svg?style=svg)](https://circleci.com/gh/code4kit/arr-2-sheet-client)
+[![CircleCI](https://circleci.com/gh/code4kit/arr-to-sheet-client.svg?style=svg)](https://circleci.com/gh/code4kit/arr-2-sheet-client)
 
 > arr-to-sheet-server's client. you can install 'arr-to-sheet-client' by yarn or npm. https://github.com/code4kit/arr-to-sheet-server#readme
 
