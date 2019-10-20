@@ -19,5 +19,8 @@ jobs:
           paths:
             - ~/.cache/yarn
       - run:
+          name: check coding format
+          command: yarn run standard
+      - run:
           name: test
           command: yarn test
