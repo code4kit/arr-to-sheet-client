@@ -38,7 +38,7 @@
     "documentation": "12.1.4",
     "mocha": "7.0.0",
     "readme-md-generator": "0.7.0",
-    "semistandard": "14.2.0"
+    "semistandard": "14.2.3"
   },
   "config": {
     "commitizen": {
